@@ -1,6 +1,6 @@
 <template>
   <div class="common-layout">
-    <nuxt/>
+    <nuxt class="view"/>
     <common-footer></common-footer>
   </div>
 </template>
@@ -19,10 +19,14 @@
     margin-right: auto;
     margin-left: auto;
     min-width: 320px;
+    background: #f8f8f8;
 
   }
   .common-layout {
     max-width: 640px;
+  }
+  .view {
+    padding-bottom: 44px;
   }
 
 </style>

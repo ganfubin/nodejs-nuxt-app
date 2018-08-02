@@ -55,6 +55,7 @@
         margin-left: auto;
         min-width: 320px;
         background: #ffffff;
+        box-shadow:0px -2px 5px 0px rgba(0,0,0,0.08);
         .foot-item {
             flex: 1;
             display: flex;
