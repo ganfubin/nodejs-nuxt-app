@@ -1,0 +1,10 @@
+/node_modules
+/npm-debug.log
+/app/logs
+node_modules/**
+.idea/**
+.nuxt
+dist
+/log
+build
+package-lock.json
