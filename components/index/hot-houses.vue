@@ -23,7 +23,6 @@
                     <div class="tag">公园大城</div>
                     <div class="tag">高级中学</div>
                     <div class="tag">户户朝南</div>
-                    <div class="tag">户户朝南</div>
                 </div>
             </div>
             <div class="house-list-item">
@@ -59,7 +58,6 @@
                     <div class="tag">地铁上盖</div>
                     <div class="tag">公园大城</div>
                     <div class="tag">高级中学</div>
-                    <div class="tag">户户朝南</div>
                     <div class="tag">户户朝南</div>
                 </div>
             </div>
@@ -167,9 +165,6 @@
                     }
                     .tag + .tag {
                        margin-left: 10px;
-                    }
-                    .tag:nth-child(4n + 1) {
-                        margin-left: 0;
                     }
                 }
             }
