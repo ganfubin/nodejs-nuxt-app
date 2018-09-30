@@ -2,7 +2,7 @@ const { Nuxt, Builder } = require('nuxt');
 
 const app = require('express')();
 const isProd = (process.env.NODE_ENV === 'production');
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5000;
 
 // We instantiate nuxt.js with the options
 const config = require('../nuxt.config.js');
